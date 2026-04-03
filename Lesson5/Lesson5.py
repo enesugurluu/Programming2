@@ -67,5 +67,8 @@ def main():
         line = file6.readline()
 
 
+    try:
+        
+
 if __name__ == "__main__":
     main()
